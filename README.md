@@ -1,5 +1,4 @@
 # Wyle-Coding-Challenge
 
-The Shape interface and related classes are in the package shape.
-The Collection related code and the final question are in the collection package.
-There is a main method in each of these packages.
+This is the final turn in of all source code
+Collection.java contains ]the solution to the collection questions as well as the final problem.
